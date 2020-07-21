@@ -1,1 +1,1 @@
-# JBA-Smart-Calculator
+# JetBrains Academy projects
